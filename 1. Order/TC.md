@@ -1,59 +1,15 @@
-# Use Case 1.1: Make an order
 
-#### Actors
-+ **Primary actor:** Customer
-+ **Secondary actor:** Staff
-
-
-#### Triggers 
-Customer is on the page for order
-
-#### Precondition  
-+ Customer needs to have an active internet connection  
-+ The website needs to be accessible by the customer  
-+ Customer is on the page for order
-
-### Description
- Customer selects services available for him to use. He chooses preferences for the services, puts personal details, details about time and date of dispatch and delivery in the form, accepts the terms and conditions of use and confirms the order
-
-## Flow
-
-#### Main flow
-1. Customer visits the page "WASH NOW" ("LAVAR AHORA")
-2. Customer sees the arranged horizontally list (links) of laundry services, that can be switched over each other.
-3. The service for washing and drying of 1 kg of laundry is already switched on as it is also the initial page of "WASH NOW"
-4. Customer selects services and puts required data (laundry weight or items)
-    > Here will be a link to special cases (Selecting Washing and Drying)
-5. Customer may put a discount coupon
-6. Customer sees the price for the services
-7. Customer fills out the form indicating his name, town/city, address line, e-mail, time and date for dispatch and delivery
-8. Customer may give his whatsapp number
-9. Customer may leave a comment
-10. Customer tick off the checkbox "I accept the terms and conditions of use"
-11. Customer click the button to confirm the order
-12. Customer receives a confirmation email about the order
-13. Customer definitively confirms the order via e-mail by clicking link in his e-mail. (This is applied with those customers that haven't registered in and don't have their own profile)
-
-
-#### Alternative flows
-
-14.  a) Customer selects no service in `step 4`. Customer clicks the button to confirm the order. The error is shown that at least one service should be selected.
-
-     b) Customer doesn't indicate one of the required information (name, town/city, address line, e-mail) in `step 7`. Customer clicks the button to confirm the order. The notice to fill up the fields is appeared.
-
-     c) Customer doesn't tick off the checkbox "I accept the terms and conditions of use" in `step 10`. Customer clicks the button to confirm the order. The warning to confirm the terms is appeared. The use case stops.
-
-#### Fatal error  
-+  In any case of a critical error a customer may contact staff via an available communication channel (email or whatsapp).
-+ Logging is enabled for errors appeared on the server side. Staff receive notification about the failed order and may contact customer. 
-
-
-
-
-| IDEA: description of test case idea | TC ID       |     |
-|                                     | ----------- | --- |  
-|                                     |  Priority   |     |  
-|------------------------------------ | ----------- | --- |
-| Col1                                | Col 2       | Col 3 |
-
+| IDEA: description of test case idea | TC ID       |         |
+|                                     | ----------- | ------- |  
+|                                     |  Priority   |         |  
+|------------------------------------ | ----------- | ------- |
+| SETUP and ADDITIONAL INFO                                   |
+|------------------------------------ | ----------- | ------- |
+|Created (date/name):                 |  Reason:              |
+|------------------------------------ | ----------- | ------- |
+|Modified (date/name):                |  Reason:              |
+|------------------------------------ | ----------- | ------- |
+|1. Step 1
+ 2. Step 2                            |  - Expected result    |
+|------------------------------------ | ----------- | ------- |
 
