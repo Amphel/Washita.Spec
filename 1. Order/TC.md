@@ -47,3 +47,13 @@ Customer is on the page for order
 +  In any case of a critical error a customer may contact staff via an available communication channel (email or whatsapp).
 + Logging is enabled for errors appeared on the server side. Staff receive notification about the failed order and may contact customer. 
 
+
+
+
+| IDEA: description of test case idea | TC ID       |     |
+|                                     | ----------- | --- |  
+|                                     |  Priority   |     |  
+|------------------------------------ | ----------- | --- |
+| Col1                                | Col 2       | Col 3 |
+
+
