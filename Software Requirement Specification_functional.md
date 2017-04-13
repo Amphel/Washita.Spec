@@ -12,21 +12,21 @@
  
 Contents
 1. [Purpose of the document](#Purpose-of-the-document)
-2. Project Overview: 3
-2.1 Audience: 3
-2.2 Hardware and Hosting: 3
-3. Information Architecture 4
-3.1 My info Module 4
-3.1.1 My Info Module 4
-3.1.2 Photograph 5
-3.1.3 Contact Details 6
-3.1.4 Emergency Contact 7
-3.1.5 Dependants 8
-3.1.6 Immigration 9
-3.1.7 Job 11
-3.1.8 Salary 12
-3.1.9 Report To 13
-3.1.10 Qualifications 13
+2. [Project Overview](#Project-Overview)  
+2.1 [Audience](#Audience)  
+2.2 [Hardware and Hosting](#Hardware-and-Hosting)
+3. [Information Architecture](#InformationArchitecture)
+3.1 [Washita site](#Washita-site)
+3.1.1 [Washita](#Washita)
+3.1.2 Photograph
+3.1.3 Contact Details
+3.1.4 Emergency Contact
+3.1.5 Dependents
+3.1.6 Immigration
+3.1.7 Job
+3.1.8 Salary
+3.1.9 Report To
+3.1.10 Qualifications
 3.1.11 Membership 19
 4. Site Design 20
 4.1 Aesthetic/HTML Requirements and Guidelines 20
@@ -38,30 +38,46 @@ Contents
 This is not a project plan. It is a guide for system architecture and development, not for phasing, timelines or deliverables.
  
 This document is divided into three sections:
-• Project Overview
-• Information Architecture
-• Site Design
-2. Project Overview:
-2.1 Audience:
- 
++ Project Overview
++ Information Architecture
++ Site Design
+
+
+
+
+
+
+
+
+
+# 2. <a name="Project-Overview"></a> Project Overview:
+
+### 2.1 <a name="Audience"></a> Audience:
 This document is intended as a complete guide for customers using Washita.cl 1.0. By reading this guide, you will learn how to use Washita.cl through the elements of the graphical user interface and what's behind some of the advanced features that are not always obvious at first sight. It will hopefully guide you around some common problems that frequently appear for users of Washita.cl.
-2.2 Hardware and Hosting:
+
+### 2.2 <a name="Hardware-and-Hosting"></a> Hardware and Hosting:
  
-Washita’s servers will be hosted at X company’s site.
-Washita will be hosted on two servers: One to host the actual website and (language)code, and the other to host the (database name)database.
- 
-3. Information Architecture
-Visit washita.cl site
-3.1 Washita site
-Washita is a powerful tool providing its customers with the ability to have their clothes, linen and home items to be washed, ironed, well folded and specially cleaned. The service offers free collection and delivery. Customers’ household laundry is picked up at their premises and delivered back minimum in two days.
+Washita’s servers will be hosted at **X** company’s site.  
+**Washita will be hosted on two servers: One to host the actual website and (language)code, and the other to host the (database name)database.**
+
+
+# 3. <a name="InformationArchitecture"></a> Information Architecture
+
+Visit http://washita.cl site
+
+### 3.1 <a name="Washita-site"></a> Washita site
+
+Washita is a powerful tool providing its customers with the ability to have their clothes, linen and home items to be washed, ironed, well folded and specially cleaned. The service offers **free** collection and delivery. Customers’ household laundry is picked up at their premises and delivered back minimum in two days.
 Those who wish to use the service do not need register in. Therefore, this makes the application simplier to use. However, personal accounts are available on the site, where customers can find the history of their orders.
-3.1.1 Washita
+
+##### 3.1.1 <a name="Washita"></a> Washita
+
 When a Washita-User visits  the site for the first time, the first thing they will see is the main page  as shown in Figure 1. They are able to scroll down the page for more information or click tabs.  In addition, a user can register in.
  
  
  
  
-Figure 1:
+![Figure 1](images/Figure1.png)
    
  
 3.1.2 ”Fácil y rápido” / “Easy and fast”
