@@ -34,7 +34,8 @@ Contents
 3.1.5.4 [Hogar / Home items cleaning](#Home-items-cleaning)  
 3.1.6 [Details of order](#Details-of-order)  
 3.1.7 [Contacto / Contacts](#Contacts)  
-3.1.8 [End of page](#End-of-page)  
+3.1.8  [Ingresar / Sign in](#Sign-in)
+3.1.9 [End of page](#End-of-page)  
 4. [Site Design](#Site-Design)  
 4.1 [Aesthetic/HTML Requirements and Guidelines](#Guidelines)  
 5. [Sign-Off Document](#Sign-Off-Document)
@@ -405,12 +406,36 @@ Once you have completed this form click “ENVIAR” / "SUBMIT".
 
 Otherwise, the user can click on link **hola@washita.cl** to send email
 
-#### 3.1.8 <a name="End-of-page"></a> End of page
+#### 3.1.8  <a name="Sign-in"></a> Ingresar / Sign in
 
-The end of every page is designed as in Figure 14.
+The Washita-user can  reach this section by clicking tab “Ingresar” as it is highlighted red in Figure 14.
 
 Figure 14:
 ![Figure 14](images/Figure14.png)
+
+1. If the user is existed Washita-customer, to sign in, the user can do it in three ways:
+
+1) to fill up the fields with his e-mail and password, and click on the button "Log-in"
+2) to sign in via facebook
+3) to sign in via google account
+
+2. If it has been the first time the user on the site, he can register in by clicking on link "Regístrate aquí / Sign up here"
+
+Figure 15:
+![Figure 15](images/Figure15.png)
+
+The user can register in in three ways:
+
+1) the user can enter his e-mail, password twice and click the button "Registrarse / Check in"
+2) the user can register in via facebook
+3) the user can register in via google account
+
+#### 3.1.9 <a name="End-of-page"></a> End of page
+
+The end of every page is designed as in Figure 14.
+
+Figure 16:
+![Figure 16](images/Figure16.png)
 
 There is link to the page where Términos y Condiciones de Uso / Terms and conditions of use are described.
 
@@ -445,29 +470,29 @@ There is link to the page where Términos y Condiciones de Uso / Terms and condi
 
 <b>Instructivo de Lavado por Carga.</b> (a)Las prendas que se procesan en el servicio de lavado por carga, deben ser aquellas que por indicación del fabricante se someten a lavado normal por máquina al agua y secado en máquina. (b)La persona que retira las cargas de ropa no separa ni revisa sus prendas. (c)No deben incluirse prendas delicadas que requieran de un procedimiento especial ni distinto al lavado normal en máquina. (d)El cliente debe llevar las prendas oscuras y claras por separado. (e)La empresa no se responsabiliza por teñidos ni deterioros. (f)El servicio no incluye desmanchado. (g)El servicio de lavado por carga incluye planchado. (h)Washita exige a sus proveedores de lavado que procesen cada bolsa individualmente.
 </td>
-	<td><b>Minimum values.</b> The minimum amount that will be charged to the Washita customer for the washing service is the equivalent of the value of a 1kg load. The Washing and Folding service has a value of 3 600 pesos per kilo of load when the order is between 1kg and 5.99kg. The Washing and Folding service has a value of 3 thousand 200 pesos per kilo of load when the order is 6kg or more. The Washing and Folding service does not subject the garments to specific treatment of de-stemming, so there is a possibility that some excess adhered stains can not be removed. The Washing and Bending service only allows a maximum of two shirts per kilo of clothes canceled. The Only Ironing service has a value of 3 thousand pesos per kilo of cargo, and you can send the number of shirts equivalent to one kilo of weight per load.
+	<td><b>Minimum values.</b> The minimum amount that will be charged to the Washita customer for the washing service is the equivalent of the value of a 1kg load. The Washing and Folding service has a value of 3 600 pesos per kilo of load when the order is between 1kg and 5.99kg. The Washing and Folding service has a value of 3 thousand 200 pesos per kilo of load when the order is 6kg or more. The Washing and Folding service does not subject the garments to specific treatment of de-stemming, so there is a possibility that some excess adhered stains can not be removed. The Washing and Folding service only allows a maximum of two shirts per kilo of clothes canceled. The Only Ironing service has a value of 3 thousand pesos per kilo of cargo, and you can send the number of shirts equivalent to one kilo of weight per load.
 
 <b>Process of Work Orders.</b> All orders must be canceled before the work order is activated, unpaid orders will not be processed.
 
-<b>Unclaimed clothing.</b> All items that are not received by the customer during the delivery to the place and time indicated, will be delivered within the next 48 hours at the same place and time. Garments not received by the second instance in the place and time indicated, will be kept for a maximum period of 30 days. During this period the customer should contact by phone or email to coordinate with Washita the time and place of final delivery. If during the 30 days the customer does not contact Washita, they will be considered abandoned and donated to charity.
+<b>Unclaimed clothing.</b> All items that are not received by the customer during the delivery to the place and time indicated, will be delivered within the next 48 hours at the same place and time. Garments not received by the second time in the place and time indicated, will be kept for a maximum period of 30 days. During this period the customer should contact by phone or email to coordinate with Washita the time and place of final delivery. If during the 30 days the customer does not contact Washita, they will be considered abandoned and donated to charity.
 
 <b>Damage on Garments.</b> Washita is concerned with applying protocols and procedures to achieve and ensure high quality standards and policies for garment care. This is done by supervising the execution of each of the processes and subprocesses in which each garment is submitted. However, Washita assumes no liability for defects or damages in clothing or products that are attributable to use or time, such as breakage and / or discoloration. In the case of stains that can not be removed without causing damage to the garment, neither responsibility will be assumed, so that the garment will be returned with the stain (s) in the condition that has remained after the process of Normal washing. The Mission of Washita is to be a company that offers a quality service and improve the quality of life of its clients, and for this we will put the maximum effort and commitment in our service. In the event of any damage that has been proven to be caused by Washita, we will assume responsibility and refund up to (3) three times the cost of the service received, regardless of the brand or condition of the garment. Any claims for damages must be communicated to hola@washita.cl within 5 business days of receipt of the pledge.
 
 <b>Lost Gifts.</b> Any missing items must be reported to hola@washita.cl within 5 business days of receipt of the cargo. Washita is concerned with maintaining an effective follow-up of the garments throughout the entire process, for which we execute supervision and exhaustive track of the loads, both in the field and by remote monitoring from the operations center. In the event of any loss caused by Washita, we will assume responsibility and refund up to (3) three times the cost of the service received, regardless of the brand or condition of the garment. Garments will be considered lost after 30 days from receipt of the claim.
 
-<b>Personal Elements.</b> Washita agrees to return any accessories such as jewelry, pens, watches, cash, removable buttons, collars, ribbons, caps, belts, or any loose item that may come in a garment. However, we are not responsible for loss or loss of said elements, nor any damages that may be caused by the non-removal of these elements. It is the responsibility of the client to send the garments without any element that is subject to loss. We ask our customers to remove these items prior to the shipment of the garments.
+<b>Personal Elements.</b> Washita agrees to return any accessories such as jewelry, pens, watches, cash, removable buttons, collars, ribbons, caps, belts, or any loose item that may come in a garment. However, we are not responsible for loss or loss of mentioned above elements, nor any damages that may be caused by the non-removal of these elements. It is the responsibility of the client to send the garments without any element that is subject to loss. We ask our customers to remove these items prior to the shipment of the garments.
 
-<b>Deadlines.</b> Washita agrees to make every effort to complete the return of the garments to the customer within 48 hours. However, it must understand that the delay period is subject to variable factors such as the type of garment and the volume of the load, among others. Independently of this, the return of the load will not exceed the 72 working hours from received, and in case of exceeding this period, compensatory measures will be applied as discounts for the affected client in its next order.
+<b>Deadlines.</b> Washita agrees to make every effort to complete the return of the garments to the customer <b>within</b> 48 hours. However, it must understand that the delay period is subject to variable factors such as the type of garment and the volume of the load, among others. Independently of this, the return of the load will not exceed the 72 working hours from received, and in case of exceeding this period, compensatory measures will be applied as discounts for the affected client in its next order.
 
-<b>Payment System.</b> All payments are made against the credit card that you register in the system. All our transactions are secure and are made through Transbank or Paypal. For customers who wish to pay once a month, they can choose this option when registering or on the website and make the payment via webbank of Transbank or Paypal.
+<b>Payment System.</b> All payments are made against the credit card that you register in the system. All our transactions are secure and are made through Transbank or Paypal. For customers who wish to pay once a month, they can choose this option when registering in or on the website and make the payment via webbank of Transbank or Paypal.
 
-<b>Laundry Service.</b> Washita may unilaterally decide whether to perform the laundry service in its own premises or in the facilities of associated washing companies by each sector, this in order to maintain an adequate response to the terms offered to the client and to promote the compromise in the quality Of service in local commerce. Washita will continuously monitor that quality standards by suppliers are adequate to meet customer expectations.
+<b>Laundry Service.</b> Washita may unilaterally decide whether to perform the laundry service in its own premises or in the facilities of associated washing companies by each sector, this is in order to maintain an adequate response to the terms offered to the client and to promote the compromise in the quality Of service in local commerce. Washita will continuously monitor that quality standards by suppliers that they are adequate to meet customer expectations.
 
 <b>Coverage.</b> Washita delivers laundry service at home only in the communes that specific and delimits in the section of the website where it refers to the coverage. Notwithstanding the foregoing, we are continuously working to increase the coverage areas where the service is delivered.
 
-<b>Process of Work Orders.</b> All orders must be canceled before the work order is activated, unpaid orders will not be processed.
+<b>Process of Work Orders. All orders must be canceled before the work order is activated, unpaid orders will not be processed.</b>
 
-<b>Load Washing Instruction.</b> (A) Garments that are processed in the cargo washing service must be those which, according to the manufacturer's indication, are subjected to normal washing by machine to water and machine dried. (B) The person who removes the loads of clothes does not separate or inspect their garments. (C) Do not include delicate garments that require a special procedure or different from normal washing machine. (D) The client must wear dark and light clothes separately. (E) The company is not responsible for dyeing or deterioration. (F) The service does not include unmolding. (G) The laundry service includes ironing. (H) Washita requires its lavage suppliers to process each bag individually.
+<b>Load Washing Instruction.</b> (A) Garments that are processed in the cargo washing service must be those which, according to the manufacturer's indication, are subjected to normal washing by machine to water and machine dried. (B) The person who removes the loads of clothes does not separate or inspect their garments. (C) Do not include delicate garments that require a special procedure or different from normal washing machine. (D) The client must separate dark and light clothes separately. (E) The company is not responsible for dyeing or deterioration. (F) The service does not include unmolding. (G) The laundry service includes ironing. (H) Washita requires its lavage suppliers to process each bag individually.
 </td>
   </tr>
 </table>
